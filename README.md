@@ -1,1 +1,3 @@
-# wab_fallas_experto
+# wab fallas Curso experto experto
+
+Completamos nuestro readme con más información
